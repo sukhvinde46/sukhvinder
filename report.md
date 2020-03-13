@@ -9,7 +9,7 @@ College Roll no. :1916076
 
 University Roll no. :1905158
 
-Branch : Electrical   
+Branch : Electrical    
 
 Batch :2019-2023
 
