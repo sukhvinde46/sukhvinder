@@ -1,5 +1,5 @@
-![gne logo]https://jaspreetsarao.files.wordpress.com/2012/05/gne.png
-# proagraming for problem solving(esc-105) 
+![gne logo](http://photos.wikimapia.org/p/00/01/27/86/15_big.jpg)
+# Proagraming for Problem solving(ESC-105) 
 
 ----- 
 
